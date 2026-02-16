@@ -1,13 +1,15 @@
 {
-  "hooks": {
-    "UserPromptSubmit": {
-      "matcher": "",
-      "hooks": [
-        {
-          "type": "prompt",
-          "prompt": "Use git-worktree skill to determine whether if new worktree is necessary."
-        }
-      ]
-    } 
-  }
+  "hooks": [
+    {
+      "UserPromptSubmit": {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Use git-worktree skill to determine whether if new worktree is necessary."
+          }
+        ]
+      } 
+    }
+  ]
 }
