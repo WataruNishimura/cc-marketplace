@@ -1,0 +1,13 @@
+{
+  "hooks": {
+    "SessionStart": {
+      "matcher": "startup|resume",
+      "hooks": [
+        {
+          "type": "prompt",
+          "prompt": "Use git-worktree skill to determine whether if new worktree is necessary."
+        }
+      ]
+    }
+  }
+}
