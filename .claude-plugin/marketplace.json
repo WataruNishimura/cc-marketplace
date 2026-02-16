@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "WataruNishimura/git-worktree",
+      "name": "git-worktree",
       "description": "A plugin manages git worktree appropriately according to the task.",
       "source": "./plugins/git-worktree"
     }
