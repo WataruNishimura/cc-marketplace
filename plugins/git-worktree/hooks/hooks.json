@@ -1,6 +1,6 @@
 {
   "hooks": {
-    "SessionStart": {
+    "SessionStart": [{
       "matcher": "startup|resume",
       "hooks": [
         {
@@ -8,6 +8,6 @@
           "prompt": "Use git-worktree skill to determine whether if new worktree is necessary."
         }
       ]
-    }
+    }]
   }
 }
