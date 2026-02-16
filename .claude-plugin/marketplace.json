@@ -1,0 +1,13 @@
+{
+  "name": "WataruNishimura/cc-marketplace",
+  "owner":
+    "name": "WataruNishimura"
+  },
+  "plugins": [
+    {
+      "name": "WataruNishimura/git-worktree",
+      "description": "A plugin manages git worktree appropriately according to the task.",
+      "source": "./plugins/git-worktree"
+    }
+  ]
+}
