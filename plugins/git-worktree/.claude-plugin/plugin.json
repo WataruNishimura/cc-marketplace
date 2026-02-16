@@ -1,5 +1,5 @@
 {
-  "name": "WataruNishimura/git-worktree",
+  "name": "git-worktree",
   "description": "A plugin manages git worktree appropriately according to the task.",
   "version": "1.0.0"
 }
