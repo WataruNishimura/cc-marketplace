@@ -4,8 +4,8 @@
         "matcher": "",
         "hooks": [
           {
-            "type": "prompt",
-            "prompt": "Use git-worktree skill to determine whether if new worktree is necessary."
+            "type": "command",
+            "command": "echo 'Use git-worktree skill to determine whether if new worktree is necessary.'"
           }
         ]
     }]
